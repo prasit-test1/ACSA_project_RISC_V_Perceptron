@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1762970953" />
+    <testcase name="isa_test" classname="test" file="/mnt/c/Users/Prasit/Documents/ACSA_RISCV/RV_new_updated/test.py" lineno="5" time="9.548682451248169" sim_time_ns="38240.0" ratio_time="4004.7409886377995" />
+  </testsuite>
+</testsuites>
